@@ -1,0 +1,72 @@
+.main .section1 {
+    display: block;
+    display: flex;
+}
+
+.main .section1 .img_sec img {
+    height: 300px;
+    width: 300px;
+}
+
+.text_section {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.text_section p del {
+    color: rgb(158, 158, 158);
+}
+
+#box1 {
+    border: 2px solid rgb(238, 238, 238);
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+}
+
+.main .section2 .img_sec img {
+    height: 300px;
+    width: 300px;
+}
+
+.text_section {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#box2 {
+    border: 2px solid rgb(238, 238, 238);
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+}
+
+.main .section3 .img_sec img {
+    height: 300px;
+    width: 300px;
+}
+
+.text_section {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#box3 {
+    border: 2px solid rgb(238, 238, 238);
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+}
+
+.main .section4 .img_sec img {
+    height: 300px;
+    width: 300px;
+}
+
+.text_section {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#box4 {
+    border: 2px solid rgb(238, 238, 238);
+    background-color: rgb(238, 238, 238);
+    width: max-content;
+}
