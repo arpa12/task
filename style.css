@@ -32,7 +32,8 @@
 .section1 .arpa img:hover {
     background-color: blue;
     transition: blue, .5s;
-    text-decoration-color: white;
+    cursor: pointer;
+    color: white;
 }
 
 .main .section1 .img_sec img {
